@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nursultan Adiev</h1>
-<h2 align="center">QA Engineer</h2><img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif">
+<h2 align="center">QA Engineer</h2><img align="right" alt="Coding" width="400" height="175" src="https://mtdata.ru/u17/photo96E1/20363422392-0/original.gif">
 
 ⚡ I am a purposeful and highly motivated person, who can adjust quickly to new surroundings. I have no experience working in the QA field. However, I have a strong desire to learn new information and improve my skills to become a worthy specialist.<br> 🌱 Currently learning Python<br>💬 Ask me about Software Testing<br>
 
