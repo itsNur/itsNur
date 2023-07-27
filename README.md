@@ -14,19 +14,27 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-red?color=green&logo=whatsapp&logoColor=green)](https://wa.me/79263214468)
 
 # Skills:
-• Software testing theory   
-• Documentation: checklists, test cases, bugreports  
-• Bug Tracking Systems: Jira  
-• Test Management Systems: TestRail  
-• Database Management: MySQL, SQLite (basics)  
-• API: Postman, SoapUI (basics)  
-• Web: HTTP, HTML, DevTools (basics)  
-• Git, Github, Bash (basics)  
-• Programming: Python (basics)  
++ Software testing theory   
++ Documentation:
+  + Checklists, Test Cases, Bug Reports  
++ Bug Tracking Systems:
+  + Jira  
++ Test Management Systems:
+  + TestRail  
++ Database Management:
+  + MySQL, SQLite (basics)  
++ API:
+  + Postman, SoapUI (basics)  
++ Web:
+  + HTTP, HTML, DevTools (basics)  
++ Version control:
+  + Git, Github, Bash (basics)  
++ Programming:
+  + Python (basics)  
 # Languages:
-• English B2
+  + English B2
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsNur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsNur&theme=radical&hide_border=true)<br/>
