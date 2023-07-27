@@ -3,15 +3,14 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Nursultan Adiev</h1>
-<h2 align="center">QA Engineer</h2><img align="right" alt="Coding" width="400" height="175" src="https://mtdata.ru/u17/photo96E1/20363422392-0/original.gif">
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Nursultan</h1>
+<h2 align="center"> I am a QA Engineer</h2><img align="right" alt="Coding" width="400" height="175" src="https://mtdata.ru/u17/photo96E1/20363422392-0/original.gif">
 
 ⚡ I am a purposeful and highly motivated person, who can adjust quickly to new surroundings. I have no experience working in the QA field. However, I have a strong desire to learn new information and improve my skills to become a worthy specialist.<br> 🌱 Currently learning Python<br>💬 Ask me about Software Testing<br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/812060532953055322/) 
-[![Telegram](https://img.shields.io/badge/-Telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/nur_adiev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-red?color=green&logo=whatsapp&logoColor=green)](https://wa.me/79263214468)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adievn97@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-red?style=for-the-badge&color=blue&logo=telegram&logoColor=white)](https://t.me/nur_adiev)
 
 # Skills:
 + Software testing theory   
