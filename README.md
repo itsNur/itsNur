@@ -13,8 +13,20 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/nur_adiev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-red?color=green&logo=whatsapp&logoColor=green)](https://wa.me/79263214468)
 
+# Skills:
+• Software testing theory   
+• Documentation: checklists, test cases, bugreports  
+• Bug Tracking Systems: Jira  
+• Test Management Systems: TestRail  
+• Database Management: MySQL, SQLite (basics)  
+• API: Postman, SoapUI (basics)  
+• Web: HTTP, HTML, DevTools (basics)  
+• Git, Github, Bash (basics)  
+• Programming: Python (basics)  
+# Languages:
+• English B2
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsNur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsNur&theme=radical&hide_border=true)<br/>
