@@ -16,7 +16,7 @@
 # Skills:
 + Software testing theory   
 + Documentation:
-  + Checklists, Test Cases, [Bug Reports](https://github.com/itsNur/Bug_Reports), [Mind Maps]() 
+  + Checklists, Test Cases, [Bug Reports](https://github.com/itsNur/Bug_Reports), [Mind Maps](https://github.com/itsNur/Mind_Maps) 
 + Bug Tracking Systems:
   + Jira  
 + Test Management Systems:
