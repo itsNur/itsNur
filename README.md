@@ -16,7 +16,7 @@
 # Skills:
 + Software testing theory   
 + Documentation:
-  + [Checklists](https://github.com/itsNur/Checklists), [Test Cases](https://github.com/itsNur/Test_Cases), [Bug Reports](https://github.com/itsNur/Bug_Reports), [Test Suites](https://github.com/itsNur/Test_Suites), [Mind Maps](https://github.com/itsNur/Mind_Maps) 
+  + Checklists, Test Cases, Bug Reports, Test Suites, Mind Maps 
 + Bug Tracking Systems:
   + Jira  
 + Test Management Systems:
@@ -35,6 +35,14 @@
   + English B2
 # 💻 Tech Stack:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+# Examples of work:
++ [Test Plans]()
++ [Checklists](https://github.com/itsNur/Checklists)   
++ [Test Cases](https://github.com/itsNur/Test_Cases)
++ [Bug Reports](https://github.com/itsNur/Bug_Reports)
++ [Test Suites](https://github.com/itsNur/Test_Suites)
++ [Mind Maps](https://github.com/itsNur/Mind_Maps) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsNur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsNur&theme=radical&hide_border=true)<br/>
