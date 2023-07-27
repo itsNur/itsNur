@@ -39,9 +39,9 @@
 + [Test Plans]()
 + [Checklists](https://github.com/itsNur/Checklists)   
 + [Test Cases](https://github.com/itsNur/Test_cases)
-+ [Bug Reports](https://github.com/itsNur/Bug_Reports)
-+ [Test Suites](https://github.com/itsNur/Test_Suites)
-+ [Mind Maps](https://github.com/itsNur/Mind_Maps) 
++ [Bug Reports](https://github.com/itsNur/Bug_reports)
++ [Test Suites](https://github.com/itsNur/Test_suites)
++ [Mind Maps](https://github.com/itsNur/Mind_maps) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsNur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
