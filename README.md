@@ -42,6 +42,7 @@
 + [Bug Reports](https://github.com/itsNur/Bug_reports)
 + [Test Suites](https://github.com/itsNur/Test_suites)
 + [Mind Maps](https://github.com/itsNur/Mind_maps)
++ [SQL](https://github.com/itsNur/SQL)
 + [Postman](https://github.com/itsNur/Postman)
 
 # 📊 GitHub Stats:
