@@ -11,6 +11,7 @@
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adievn97@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-red?style=for-the-badge&color=blue&logo=telegram&logoColor=white)](https://t.me/nur_adiev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+79263214468)
 
 # Skills:
 + Software testing theory   
