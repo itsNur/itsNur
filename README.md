@@ -38,7 +38,7 @@
 # Examples of work:
 + [Test Plans]()
 + [Checklists](https://github.com/itsNur/Checklists)   
-+ [Test Cases](https://github.com/itsNur/Test_Cases)
++ [Test Cases](https://github.com/itsNur/Test_cases)
 + [Bug Reports](https://github.com/itsNur/Bug_Reports)
 + [Test Suites](https://github.com/itsNur/Test_Suites)
 + [Mind Maps](https://github.com/itsNur/Mind_Maps) 
