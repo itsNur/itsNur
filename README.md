@@ -42,7 +42,7 @@
 + [Bug Reports](https://github.com/itsNur/Bug_reports)
 + [Test Suites](https://github.com/itsNur/Test_suites)
 + [Mind Maps](https://github.com/itsNur/Mind_maps)
-+ [Postman]()
++ [Postman](https://github.com/itsNur/Postman)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsNur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
