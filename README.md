@@ -45,6 +45,18 @@
 + [SQL](https://github.com/itsNur/SQL)
 + [Postman](https://github.com/itsNur/Postman)
 + [Jmeter](https://github.com/itsNur/Jmeter)
+# Education:
++ Stepik, Quality Assurance, Software Testing. Functional and non-functional testing on web, desktop applications Creating test case scenarios, checklists and bugreports. Bug tracking, report and documentaion. 
++ Stepik, Python programming course. Basic data types, constructs, and concepts of structured programming using Python language.
++ W3SCHOOLS, MySQL course. Storing, manipulating and retrieving data in databases
++ YouTube, Quality Assurance. QA Engineer courses.
++ Moscow Academy of Finance and Law, Economics. FInance and Credit.
+# Certifications:
+# Stepik, Junior QA
+![Certificate QA Course 1](https://github.com/itsNur/itsNur/assets/70845085/a1014b94-2ae7-4cda-8f6c-326fe4742318)
+# Stepik, Software Testing
+![Certificate QA Course 2](https://github.com/itsNur/itsNur/assets/70845085/8c926447-61ed-4507-b662-27ef88212353)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=itsNur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
