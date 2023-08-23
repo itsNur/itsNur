@@ -56,7 +56,7 @@
 ![Certificate QA Course 1](https://github.com/itsNur/itsNur/assets/70845085/a1014b94-2ae7-4cda-8f6c-326fe4742318)
 # Stepik, Software Testing
 ![Certificate QA Course 2](https://github.com/itsNur/itsNur/assets/70845085/8c926447-61ed-4507-b662-27ef88212353)
-# EF Standard English Test
+# EF Standard English Level Test
 ![EF SET Certificate](https://github.com/itsNur/itsNur/assets/70845085/972f192c-d550-4dc8-8182-1c74668b1d32)
 
 
