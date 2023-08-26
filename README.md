@@ -52,6 +52,8 @@
 + YouTube, Quality Assurance. QA Engineer courses.
 + Moscow Academy of Finance and Law, Economics. FInance and Credit.
 # Certificates:
+# Stepik, Поколение Python
+![Certificate Python course](https://github.com/itsNur/itsNur/assets/70845085/1b02aa5b-0a22-4b08-a716-95283e29ebe0)
 # Stepik, Junior QA
 ![Certificate QA Course 1](https://github.com/itsNur/itsNur/assets/70845085/a1014b94-2ae7-4cda-8f6c-326fe4742318)
 # Stepik, Software Testing
