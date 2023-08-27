@@ -54,6 +54,8 @@
 # Certificates:
 # Stepik, Поколение Python
 ![Certificate Python course](https://github.com/itsNur/itsNur/assets/70845085/1b02aa5b-0a22-4b08-a716-95283e29ebe0)
+# Sololearn, Introduction to Python
+![42b821ff-4bc2-482c-a098-6a395e2b13ef (1)](https://github.com/itsNur/itsNur/assets/70845085/08ccc1cf-155c-4617-9d56-412044892cfa)
 # Stepik, Junior QA
 ![Certificate QA Course 1](https://github.com/itsNur/itsNur/assets/70845085/a1014b94-2ae7-4cda-8f6c-326fe4742318)
 # Stepik, Software Testing
