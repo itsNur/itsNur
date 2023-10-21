@@ -53,7 +53,7 @@
 + Moscow Academy of Finance and Law, Economics. FInance and Credit.
 # Certificates:
 # Stepik, Поколение Python
-![Certificate Python course](https://github.com/itsNur/itsNur/assets/70845085/1b02aa5b-0a22-4b08-a716-95283e29ebe0)
+![Certificate Python course eng](https://github.com/itsNur/itsNur/assets/70845085/b2f25cd3-2d56-44cc-8354-e97b5ed4f9c0)
 # Sololearn, Introduction to Python
 ![42b821ff-4bc2-482c-a098-6a395e2b13ef (1)](https://github.com/itsNur/itsNur/assets/70845085/08ccc1cf-155c-4617-9d56-412044892cfa)
 # Stepik, Junior QA
