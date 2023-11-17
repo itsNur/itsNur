@@ -44,7 +44,8 @@
 + [Mind Maps](https://github.com/itsNur/Mind_maps)
 + [SQL](https://github.com/itsNur/SQL)
 + [Postman](https://github.com/itsNur/Postman) 
-+ [Jmeter](https://github.com/itsNur/Jmeter) 
++ [Jmeter](https://github.com/itsNur/Jmeter)
++ [Python](https://github.com/itsNur/Python)
 # Education:
 + Stepik, Quality Assurance, Software Testing. Functional and non-functional testing on web, desktop applications Creating test case scenarios, checklists and bugreports. Bug tracking, report and documentaion. 
 + Stepik, Python programming course. Basic data types, constructs, and concepts of structured programming using Python language.
