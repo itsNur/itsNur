@@ -31,16 +31,18 @@
 # 💻 Tech Stack:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 # Examples of work: 
++ [Python](https://github.com/itsNur/Python)
++ [Django](https://github.com/itsNur/django)
++ [SQL](https://github.com/itsNur/SQL)
++ [Postman](https://github.com/itsNur/Postman)
 + [Test Plans](https://github.com/itsNur/Test_plan)
 + [Checklists](https://github.com/itsNur/Checklists)  <img align="right" alt="Coding" width="400" height="250" src="https://media.giphy.com/media/zaQNw0f2Es3jvQxbTe/giphy.gif"> 
 + [Test Cases](https://github.com/itsNur/Test_cases) 
 + [Bug Reports](https://github.com/itsNur/Bug_reports) 
 + [Test Suites](https://github.com/itsNur/Test_suites)
-+ [Mind Maps](https://github.com/itsNur/Mind_maps)
-+ [SQL](https://github.com/itsNur/SQL)
-+ [Postman](https://github.com/itsNur/Postman) 
++ [Mind Maps](https://github.com/itsNur/Mind_maps) 
 + [Jmeter](https://github.com/itsNur/Jmeter)
-+ [Python](https://github.com/itsNur/Python)
+
 # Education:
 + Stepik, Quality Assurance, Software Testing. Functional and non-functional testing on web, desktop applications Creating test case scenarios, checklists and bugreports. Bug tracking, report and documentaion. 
 + Stepik, Python programming course. Basic data types, constructs, and concepts of structured programming using Python language.
