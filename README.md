@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" width="1100" height="170"/>
-</div>
-
-
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Nursultan</h1>
 <h2 align="center"> I am a QA Engineer</h2><img align="right" alt="Coding" width="300" height="175" src="https://media.giphy.com/media/YqVUNArjy1v1itqCxB/giphy.gif">
 
