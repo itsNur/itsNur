@@ -1,15 +1,10 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Nur</h1>
-<h2 align="center"> I am a Python Developer</h2><img align="right" alt="Coding" width="300" height="160" src="https://media.giphy.com/media/YqVUNArjy1v1itqCxB/giphy.gif">
+<h1 align="center">Hi there, I'm Nur <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+<h1 align="center"> I am a Python Developer</h1>
 
-⚡Highly motivated Python developer with hands-on experience in Flask and Django,
-and a solid foundation in SQL, Git, and web development. Eager to join a
-collaborative team to contribute, learn, and grow. Strong English communication
-skills and a passion for solving problems with code. Interested in AI, ML, backend
-development fields and eager to contribute to real-world projects
-🌱<br>
+<h2 align="center">⚡Highly motivated individual with hands-on experience in Python web development using Flask, Django frameworks, and a solid foundation in SQL and Git. Eager to join a collaborative team to contribute, learn, and grow. Have strong English communication skills and a passion for solving problems with code. Interested in AI, ML, backend development fields and eager to contribute to real-world projects 🌱</h2> 
 
-# 🌐 Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adievn97@gmail.com)
+# 🌐 Socials 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adievn97@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-red?style=for-the-badge&color=blue&logo=telegram&logoColor=white)](https://t.me/nur_adiev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+79263214468)
 
